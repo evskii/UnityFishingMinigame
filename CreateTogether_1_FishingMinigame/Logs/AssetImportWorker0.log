@@ -1,0 +1,522 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16320 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/evski/Documents/TUD Games Design/Year 3/Own Projects/Unity/CreateTogether_1_FishingMinigame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59892
+Successfully changed project path to: C:/Users/evski/Documents/TUD Games Design/Year 3/Own Projects/Unity/CreateTogether_1_FishingMinigame
+C:/Users/evski/Documents/TUD Games Design/Year 3/Own Projects/Unity/CreateTogether_1_FishingMinigame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 139.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/evski/Documents/TUD Games Design/Year 3/Own Projects/Unity/CreateTogether_1_FishingMinigame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8079 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003803 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 126.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.218 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004588 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 127.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.519 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3376 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 129.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3830.
+Total: 2.995300 ms (FindLiveObjects: 0.340100 ms CreateObjectMapping: 0.103600 ms MarkObjects: 2.393900 ms  DeleteObjects: 0.155900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/FishingMinigame.cs
+  artifactKey: Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FishingMinigame.cs using Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb165a4289c5118d6b1b0d0bbbc6f6d6') in 0.041281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.606743 seconds.
+  path: Assets/Scripts/FishingMinigame.cs
+  artifactKey: Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FishingMinigame.cs using Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069dfca88c38aac22f2ea9aa966db799') in 0.005050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.723051 seconds.
+  path: Assets/Scripts/FishingMinigame.cs
+  artifactKey: Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FishingMinigame.cs using Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc65193d0ad93a0516979e99d64daf74') in 0.005176 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004547 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.258 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 129.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3834.
+Total: 3.255800 ms (FindLiveObjects: 0.356100 ms CreateObjectMapping: 0.103100 ms MarkObjects: 2.665400 ms  DeleteObjects: 0.129800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004292 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 129.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3838.
+Total: 3.593900 ms (FindLiveObjects: 0.369600 ms CreateObjectMapping: 0.106000 ms MarkObjects: 2.872900 ms  DeleteObjects: 0.243300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004557 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.379 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3842.
+Total: 3.380600 ms (FindLiveObjects: 0.374400 ms CreateObjectMapping: 0.110500 ms MarkObjects: 2.752100 ms  DeleteObjects: 0.142200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004281 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3846.
+Total: 2.981800 ms (FindLiveObjects: 0.365400 ms CreateObjectMapping: 0.103500 ms MarkObjects: 2.383300 ms  DeleteObjects: 0.128300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004541 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 3.027400 ms (FindLiveObjects: 0.365500 ms CreateObjectMapping: 0.101700 ms MarkObjects: 2.426900 ms  DeleteObjects: 0.132000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004359 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3854.
+Total: 3.461300 ms (FindLiveObjects: 0.406600 ms CreateObjectMapping: 0.112600 ms MarkObjects: 2.809500 ms  DeleteObjects: 0.130600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004533 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.257 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3858.
+Total: 3.749900 ms (FindLiveObjects: 0.410600 ms CreateObjectMapping: 0.116600 ms MarkObjects: 3.042700 ms  DeleteObjects: 0.177000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004356 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.240 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3862.
+Total: 3.120100 ms (FindLiveObjects: 0.367700 ms CreateObjectMapping: 0.107400 ms MarkObjects: 2.515100 ms  DeleteObjects: 0.128700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004452 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3866.
+Total: 3.060300 ms (FindLiveObjects: 0.360000 ms CreateObjectMapping: 0.104600 ms MarkObjects: 2.458200 ms  DeleteObjects: 0.135800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004357 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.250 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3870.
+Total: 3.346800 ms (FindLiveObjects: 0.376500 ms CreateObjectMapping: 0.129000 ms MarkObjects: 2.697200 ms  DeleteObjects: 0.142100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004808 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3874.
+Total: 3.293500 ms (FindLiveObjects: 0.374300 ms CreateObjectMapping: 0.106500 ms MarkObjects: 2.671100 ms  DeleteObjects: 0.139900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004366 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3878.
+Total: 3.334600 ms (FindLiveObjects: 0.385700 ms CreateObjectMapping: 0.109500 ms MarkObjects: 2.708100 ms  DeleteObjects: 0.129200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004535 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\evski\Documents\TUD Games Design\Year 3\Own Projects\Unity\CreateTogether_1_FishingMinigame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3882.
+Total: 2.989300 ms (FindLiveObjects: 0.344700 ms CreateObjectMapping: 0.103900 ms MarkObjects: 2.398300 ms  DeleteObjects: 0.141300 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3882.
+Total: 3.666900 ms (FindLiveObjects: 0.375600 ms CreateObjectMapping: 0.103100 ms MarkObjects: 3.033000 ms  DeleteObjects: 0.154000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 699.602383 seconds.
+  path: Assets/Sprites/UI/ThoughtBubbles/Bubble_Waiting-Sheet.png
+  artifactKey: Guid(57fddb3164480c14381d73e0e15c6d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/ThoughtBubbles/Bubble_Waiting-Sheet.png using Guid(57fddb3164480c14381d73e0e15c6d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26aeedf43bdd2ae1c494aeb6a282d8d4') in 0.159375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.059053 seconds.
+  path: Assets/Sprites/UI/MinigameUI/WaterNoDither.png
+  artifactKey: Guid(1aa56921b68c084409b05a7cc40e2fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/MinigameUI/WaterNoDither.png using Guid(1aa56921b68c084409b05a7cc40e2fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b633f09c007a96f48433d88a30019a19') in 0.020851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.091153 seconds.
+  path: Assets/Resources/FishSprites/fish_5.png
+  artifactKey: Guid(160196bb81ec0444a93aabb61f8dd018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/FishSprites/fish_5.png using Guid(160196bb81ec0444a93aabb61f8dd018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7ff07acfc6969a7ef8334f1e8e828f') in 0.019461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.192541 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/grass.png
+  artifactKey: Guid(04c57b715d6821f42abfa69f18d9eb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/grass.png using Guid(04c57b715d6821f42abfa69f18d9eb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a05f5c76620908dde758674a0d54190') in 0.048563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.068369 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/plowed_soil.png
+  artifactKey: Guid(aa8ca26fb4dd9d144af9eb8a03631471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/plowed_soil.png using Guid(aa8ca26fb4dd9d144af9eb8a03631471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36002b3f90c4660e52520af06d2ceca3') in 0.045103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036850 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/watergrass.png
+  artifactKey: Guid(3a744ff6a772692439832b850d01da32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/watergrass.png using Guid(3a744ff6a772692439832b850d01da32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98510df5d90ef2676bab5ef70b307471') in 0.043662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.070347 seconds.
+  path: Assets/Sprites/UI/MinigameUI/WaterDither.png
+  artifactKey: Guid(48afd75e6a8afb34a86b522f4798f10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/MinigameUI/WaterDither.png using Guid(48afd75e6a8afb34a86b522f4798f10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5e76f82f08a4448b39b6eeb33b50b1') in 0.015087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016699 seconds.
+  path: Assets/Sprites/UI/ThoughtBubbles/Bubble_Alert-Sheet.png
+  artifactKey: Guid(654d6b8245915b94b93506921f7fb8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/ThoughtBubbles/Bubble_Alert-Sheet.png using Guid(654d6b8245915b94b93506921f7fb8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d29f9860ee7ae869ff17ea1c351a98') in 0.034712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100494 seconds.
+  path: Assets/Sprites/UI/MinigameUI/CatchingBar.png
+  artifactKey: Guid(1a13e3bc10e57dd4b806383d9cbd96fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/MinigameUI/CatchingBar.png using Guid(1a13e3bc10e57dd4b806383d9cbd96fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b99bc7459bb0bc2650e8a535a5d49f') in 0.019268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020331 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/farming_fishing.png
+  artifactKey: Guid(8f543a1a5a28c7e4cb81eb7cd0edc795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/farming_fishing.png using Guid(8f543a1a5a28c7e4cb81eb7cd0edc795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda741ca5cc894373f96bad3a16a4037') in 0.568609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073519 seconds.
+  path: Assets/Resources/FishSprites/fish_3.png
+  artifactKey: Guid(f605d5770d1238f4aa732b06fe3b9b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/FishSprites/fish_3.png using Guid(f605d5770d1238f4aa732b06fe3b9b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0f106f20f58a3cc245238870b109d6') in 0.017565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.069444 seconds.
+  path: Assets/Scenes/ExampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52dc81bd44f497769da57735380476e4') in 0.007724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035367 seconds.
+  path: Assets/Sprites/UI/MinigameUI/Background.png
+  artifactKey: Guid(73bede9a5dac0b946bada5daf28bfe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/MinigameUI/Background.png using Guid(73bede9a5dac0b946bada5daf28bfe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db1711a38a02530161ef17d43205fb4') in 0.018502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016252 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/PlayerSpriteSheet.png
+  artifactKey: Guid(00ff4620143bc8342a2adc3d12a8cb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/PlayerSpriteSheet.png using Guid(00ff4620143bc8342a2adc3d12a8cb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21bff3ed0bedb4e72e648b5316307f7b') in 0.044387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079283 seconds.
+  path: Assets/Resources/FishSprites/fish_1.png
+  artifactKey: Guid(ac21bddd69f164a418f10c70addcd3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/FishSprites/fish_1.png using Guid(ac21bddd69f164a418f10c70addcd3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd168340c938eab92302f32a2b2423888') in 0.013725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017082 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/sandwater.png
+  artifactKey: Guid(f7e423d4c2f10b14fb3eeda8a4e71e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/sandwater.png using Guid(f7e423d4c2f10b14fb3eeda8a4e71e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d41d444b3ee1566671d65f3bbfeef4') in 0.045963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033521 seconds.
+  path: Assets/Resources/FishSprites/fish_2.png
+  artifactKey: Guid(d34a8364baae88c4abf7478741e08a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/FishSprites/fish_2.png using Guid(d34a8364baae88c4abf7478741e08a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ec2ccc4241f0454c0466c8d53911fe') in 0.015732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038902 seconds.
+  path: Assets/Scenes/ExampleSceneAssets/Sprites/water.png
+  artifactKey: Guid(3bb0198bbc44b7b42b37cddc963bf5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ExampleSceneAssets/Sprites/water.png using Guid(3bb0198bbc44b7b42b37cddc963bf5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67f2844b37e40ff83a6e637f9c9d0ef') in 0.046518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005888 seconds.
+  path: Assets/Scripts/FishingMinigame.cs
+  artifactKey: Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FishingMinigame.cs using Guid(8faeec95b59636a46a04d0bd7f91e9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b611245f379eea4dc537f592c425f485') in 0.007211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.141969 seconds.
+  path: Assets/Resources/FishSprites/fish_4.png
+  artifactKey: Guid(2fab7fee91c15b14e8208a0ad6251eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/FishSprites/fish_4.png using Guid(2fab7fee91c15b14e8208a0ad6251eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907885aea5c4a273bba470d6919220c3') in 0.014058 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
